@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import Input from "./multi-type-input";
-import Modal from "../components/modal.tsx"
+import Modal from "./modal"
 import { Button } from "./ui/button";
 import { DayPicker, DayPickerProps } from "react-day-picker";
 import "react-day-picker/dist/style.css";
